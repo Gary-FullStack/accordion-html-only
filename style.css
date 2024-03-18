@@ -1,0 +1,21 @@
+details {
+    width: 250px;
+    padding: 1rem;
+    border-radius: 8px;
+    background: white;
+    box-shadow: 4px 4px 3px rgba(0,0,0,0.15);
+}
+
+summary {
+    cursor: pointer;
+    padding: 1rem;
+    background: #f4f4f4;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+
+details p {
+    margin-left: 1.75rem;
+    opacity: 0.7;
+}
+
